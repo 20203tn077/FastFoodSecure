@@ -1,10 +1,10 @@
-#Implementación de buenas prácticas
-###Librería para alertas y notificaciones
+# Implementación de buenas prácticas
+### Librería para alertas y notificaciones
 [AlertifyJS](https://alertifyjs.com)
-###Páginas de error
+### Páginas de error
 Páginas personalizadas para errores 404 y 500.  
 Para probar la página de error 500, se puede acceder a la ruta **/Platillos**
-###Catálogo de códigos de error
+### Catálogo de códigos de error
 | Código | Significado                    |
 |--------|--------------------------------|
 | E000   | Excepción no manejada          |
